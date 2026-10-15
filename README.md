@@ -223,21 +223,16 @@ memória extra O(n) · estável
 
 ---
 
-## 👥 Autores
+## 👤 Autor
 
 <table>
 <tr>
 <td align="center">
 <a href="https://github.com/Arthur-Gmb"><img src="https://github.com/Arthur-Gmb.png" width="88" alt=""><br><sub><b>Arthur Gabriel Monteiro Barreiras</b></sub></a>
 </td>
-<!-- DUPLA: troque USUARIO e NOME e apague esta linha
-<td align="center">
-<a href="https://github.com/USUARIO"><img src="https://github.com/USUARIO.png" width="88" alt=""><br><sub><b>NOME</b></sub></a>
-</td>
--->
 </tr>
 </table>
 
-Trabalho em dupla · Ciência da Computação · 2026
+Ciência da Computação · Estrutura de Dados Avançadas · 2026
 
 <sub>Distribuído sob a [licença MIT](LICENSE).</sub>
