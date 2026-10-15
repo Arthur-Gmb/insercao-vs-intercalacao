@@ -223,16 +223,21 @@ memória extra O(n) · estável
 
 ---
 
-## 👤 Autor
+## 👥 Autores
 
 <table>
 <tr>
-<td align="center">
-<a href="https://github.com/Arthur-Gmb"><img src="https://github.com/Arthur-Gmb.png" width="88" alt=""><br><sub><b>Arthur Gabriel Monteiro Barreiras</b></sub></a>
+<td align="center" width="200">
+<a href="https://github.com/Arthur-Gmb"><img src="https://github.com/Arthur-Gmb.png" width="88" alt=""><br><b>Arthur Gabriel Monteiro Barreiras</b></a><br>@Arthur-Gmb
+</td>
+<td align="center" width="200">
+<a href="https://github.com/fink1722"><img src="https://github.com/fink1722.png" width="88" alt=""><br><b>Cauã Evaristo da Cruz</b></a><br>@fink1722
 </td>
 </tr>
 </table>
 
-Ciência da Computação · Estrutura de Dados Avançadas · 2026
+Trabalho em dupla · Ciência da Computação · Estrutura de Dados Avançadas · 2026
+
+<sub>Distribuído sob a [licença MIT](LICENSE).</sub>ação · Estrutura de Dados Avançadas · 2026
 
 <sub>Distribuído sob a [licença MIT](LICENSE).</sub>
